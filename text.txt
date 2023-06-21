@@ -1,0 +1,7 @@
+username: thereseb
+password: Blessed2004
+
+
+mongodb+srv://thereseb:Blessed2004@react-backend.ct5vo4w.mongodb.net/
+
+mongodb+srv://thereseb:Blessed2004@react-backend.ct5vo4w.mongodb.net/?retryWrites=true&w=majority
